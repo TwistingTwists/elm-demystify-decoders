@@ -26,3 +26,6 @@ and `elm-test`:
 - `elm-test tests/Exercise01` - if you installed it globally
 - `npm run elm-test tests/Exercise01` - locally using `npm`
 - `yarn elm-test tests/Exercise01` - locally using `yarn`
+
+
+for solutions : goto `solutions` folder and copy relevant file in `src` directory.
